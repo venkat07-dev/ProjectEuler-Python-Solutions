@@ -1,2 +1,2 @@
-# PythonBootCamp-Projects
+# PythonProjectEuler-Projects
 Python beginner projects
